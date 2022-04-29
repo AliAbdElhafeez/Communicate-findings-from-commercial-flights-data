@@ -1,0 +1,2 @@
+# Communicate-findings-from-commercial-flights-data
+This is a communicate data findings project. We will use Python visualization libraries to systematically explore commercial flights dataset, starting from plots of single variables and building up to plots of multiple variables. You can see a short presentation of that illustrates interesting trends and relationships that we discovered in the dataset here.
